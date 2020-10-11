@@ -2,6 +2,15 @@ _Porfolio Paula Beltran_
 
 With this project I want to show not only my work experience but also my technical skills.The result I have at this moment I would not have imagined 5 weeks ago because my knowledge of coding was zero . The current state of my project is functional, it just needs more information and the ability to send emails on the contact page.
 
+
+
+
+
+
+
+
+
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
