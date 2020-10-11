@@ -1,0 +1,17 @@
+@import "./header.css";
+@import "./footer.css";
+@import "../pages/about-me.css";
+@import "../pages/education.css";
+@import "../pages/projects.css";
+@import "../pages/skills.css";
+
+body {
+  background: url("../images/bg-4.jpg");
+}
+
+main {
+  font: 1rem sans-serif;
+  text-align: justify;
+  margin: 2rem;
+  align-content: center;
+}

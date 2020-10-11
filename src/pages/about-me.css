@@ -1,0 +1,32 @@
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+h1 {
+  font: 2rem sans-serif;
+  text-align: center;
+}
+
+.p1 {
+  font: 1rem sans-serif;
+  display: block;
+  margin-top: 10rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+#row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

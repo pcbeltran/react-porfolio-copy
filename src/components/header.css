@@ -1,0 +1,43 @@
+header {
+  margin-bottom: 2rem;
+  text-align: center;
+  font: 1em sans-serif;
+}
+
+#logo {
+  font-size: 2.7rem;
+}
+
+#main-nav {
+  font-size: 1.1rem;
+}
+
+/*#img {
+  width: 1.4rem;
+}*/
+
+a:link {
+  background-color: transparent;
+  color: rgb(19, 67, 80);
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  background-color: transparent;
+  color: rgb(19, 67, 80);
+}
+
+/* focused link */
+a:focus {
+  background-color: rgb(148, 205, 210);
+  color: rgb(19, 67, 80);
+  padding: 0.5rem;
+}
+
+/* hover link */
+a:hover {
+  background-color: rgb(19, 67, 80);
+  color: white;
+  padding: 0.5rem;
+}
